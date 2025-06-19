@@ -19,7 +19,7 @@ A modular C# console application for managing and analyzing in-app advertisement
 ---
 
 ## 🔩 Project Structure
-
+```
 ├── Models/ # Ad and Log models
 ├── Services/ # Business logic and analytics
 ├── Interfaces/ # Interface definitions
@@ -27,3 +27,4 @@ A modular C# console application for managing and analyzing in-app advertisement
 ├── Resources/ # JSON configs and local settings
 ├── Program.cs # Main entry point
 └── README.md
+```
